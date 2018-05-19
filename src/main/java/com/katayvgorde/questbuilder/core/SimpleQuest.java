@@ -10,14 +10,14 @@ public class SimpleQuest implements Quest {
     private PicturePath picturePath;
     private List<Point> points;
 
-    private SimpleQuest(String name){
+    public SimpleQuest(String name){
         this.name = name;
     }
-
+/*
     public Quest createQuest(String name) {
         return new SimpleQuest(name);
     }
-
+*/
     public void add(Description description) {
         this.description = description;
     }
