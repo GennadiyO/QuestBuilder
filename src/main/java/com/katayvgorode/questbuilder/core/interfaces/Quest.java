@@ -1,4 +1,4 @@
-package com.katayvgorde.questbuilder.core.interfaces;
+package com.katayvgorode.questbuilder.core.interfaces;
 
 import java.util.List;
 
